@@ -1,0 +1,2 @@
+# NinjaSolution
+Tests
